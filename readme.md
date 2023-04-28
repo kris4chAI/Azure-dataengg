@@ -8,10 +8,10 @@ Mon - Fri - 8:30PM - 9:30PM EST
 Google meet
 
 # Who
-Priyanka
-Chaitanya 
-Vamsi
-Tania
+* Priyanka
+* Chaitanya 
+* Vamsi
+* Tania
 
 # What 
 
