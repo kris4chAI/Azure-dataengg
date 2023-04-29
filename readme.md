@@ -8,7 +8,7 @@
 Google meet
 
 # Who
-* Priyanka
+* Priyanka-priyanka.alluri77@gmail.com
 * Chaitanya 
 * Vamsi
 * Tania
